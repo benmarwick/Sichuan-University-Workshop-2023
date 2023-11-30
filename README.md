@@ -1,7 +1,5 @@
 # Sichuan University Workshop: Archaeological Science using R: Accessible and Reproducible Data Science for Archaeology 
 
-Click on this button to write code in your web browser (no log in required, file changes do not persist beyond the current session): [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/benmarwick/ARCHY-488-Lithic-Technology-Lab/master?urlpath=rstudio)
-
 | Day | Time         | Duration | Session     | Topics                                                                                                                  |
 |-----|--------------|----------|-------------|-------------------------------------------------------------------------------------------------------------------------|
 | 1   | 9:30-10:45   | 1:15     | Morning 1   | Orientation to RStudio and Projects, interacting with the R prompt, assignment, recovering from problems, using scripts |
@@ -20,6 +18,12 @@ Click on this button to write code in your web browser (no log in required, file
 | 2   | 14:30-14:45  | 0:15     | break       |                                                                                                                         |
 | 2   | 14:45-16:00  | 1:15     | Afternoon 2 | [Making maps and doing geographic information science](https://github.com/benmarwick/2018-04-13-saa/blob/9dedde861623dabe762e0ffd2b0c1598d0f2da57/workshop/SAA2018-Archaeological-Data-Science-Using-R-A-Short-Workshop.R#L996)  
 
+
+Click on this button to write code in your web browser (no log in required, file changes do not persist beyond the current session): [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/benmarwick/ARCHY-488-Lithic-Technology-Lab/master?urlpath=rstudio)
+
+One of the workshop participants, Marvin Wu, has shared his notes and code from the workshop here: https://github.com/marvinwu-legmed/R_Archeo
+
+Here is the poster that was prepared for the workshop:
 
 ![](WechatIMG23.jpg)
 
